@@ -1,0 +1,29 @@
+Starting on 3-5 at 23:07:54
+
+Question q8
+===========
+
+*** PASS: test_cases/q8/1-tinygrid.test
+*** PASS: test_cases/q8/2-tinygrid-noisy.test
+*** PASS: test_cases/q8/3-bridge.test
+*** PASS: test_cases/q8/4-discountgrid.test
+
+### Question q8: 3/3 ###
+
+
+Finished at 23:07:55
+
+Provisional grades
+==================
+Question q8: 3/3
+------------------
+Total: 3/3
+
+Your grades are NOT yet registered.  To register your grades you must
+submit your files to the edX website.  The grades obtained through the
+edX website are your final grades unless your submission was not in
+the spirit of the course,  such as if your submission simply hardcoded
+the answers to the tests.   We will screen for this after the deadline.
+
+*If you worked with a partner, you must both submit separately.*
+

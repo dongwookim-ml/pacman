@@ -1,0 +1,114 @@
+Starting on 3-5 at 22:52:52
+
+Question q8
+===========
+
+*** FAIL: test_cases/q8/1-tinygrid.test
+***     Q-Values at iteration 1 for action 'exit' are NOT correct.   Student solution:
+***     	q_values_k_1_action_exit: """
+***                 0.0000
+***                illegal
+***                 0.0000
+***     """
+***     
+***        Correct solution:
+***     	q_values_k_1_action_exit: """
+***                 0.0000
+***                illegal
+***                 1.0000
+***     """
+***     
+***     
+***     For more details to help you debug, see test output file test_cases/q8/1-tinygrid.test_output
+***     
+***     
+*** FAIL: test_cases/q8/2-tinygrid-noisy.test
+***     Q-Values at iteration 1 for action 'exit' are NOT correct.   Student solution:
+***     	q_values_k_1_action_exit: """
+***                 0.0000
+***                illegal
+***                 0.0000
+***     """
+***     
+***        Correct solution:
+***     	q_values_k_1_action_exit: """
+***                 0.0000
+***                illegal
+***                 1.0000
+***     """
+***     
+***     
+***     For more details to help you debug, see test output file test_cases/q8/2-tinygrid-noisy.test_output
+***     
+***     
+*** FAIL: test_cases/q8/3-bridge.test
+***     Q-Values at iteration 1 for action 'exit' are NOT correct.   Student solution:
+***     	q_values_k_1_action_exit: """
+***             __________       0.0000   __________
+***                 0.0000      illegal       0.0000
+***                 0.0000      illegal       0.0000
+***                 0.0000      illegal       0.0000
+***                 0.0000      illegal       0.0000
+***                 0.0000      illegal       0.0000
+***             __________       0.0000   __________
+***     """
+***     
+***        Correct solution:
+***     	q_values_k_1_action_exit: """
+***             __________       0.0000   __________
+***               -10.0000      illegal       0.0000
+***                 0.0000      illegal       0.0000
+***                 0.0000      illegal       0.0000
+***                 0.0000      illegal       0.0000
+***                 0.0000      illegal       0.0000
+***             __________       0.0000   __________
+***     """
+***     
+***     
+***     For more details to help you debug, see test output file test_cases/q8/3-bridge.test_output
+***     
+***     
+*** FAIL: test_cases/q8/4-discountgrid.test
+***     Q-Values at iteration 3 for action 'exit' are NOT correct.   Student solution:
+***     	q_values_k_3_action_exit: """
+***                 0.0000      illegal       0.0000      illegal      illegal
+***                 0.0000      illegal   __________      illegal      illegal
+***                 0.0000      illegal       0.0000      illegal      illegal
+***                 0.0000      illegal   __________   __________      illegal
+***                 0.0000      illegal      illegal      illegal      illegal
+***     """
+***     
+***        Correct solution:
+***     	q_values_k_3_action_exit: """
+***                 0.0000      illegal       0.0000      illegal      illegal
+***                 0.0000      illegal   __________      illegal      illegal
+***                 0.0000      illegal       0.0000      illegal      illegal
+***                 0.0000      illegal   __________   __________      illegal
+***                -1.0000      illegal      illegal      illegal      illegal
+***     """
+***     
+***     
+***     For more details to help you debug, see test output file test_cases/q8/4-discountgrid.test_output
+***     
+***     
+*** Tests failed.
+
+### Question q8: 0/3 ###
+
+
+Finished at 22:52:52
+
+Provisional grades
+==================
+Question q8: 0/3
+------------------
+Total: 0/3
+
+Your grades are NOT yet registered.  To register your grades you must
+submit your files to the edX website.  The grades obtained through the
+edX website are your final grades unless your submission was not in
+the spirit of the course,  such as if your submission simply hardcoded
+the answers to the tests.   We willq8 screen for this after the deadline.
+
+*If you worked with a partner, you must both submit separately.*
+
